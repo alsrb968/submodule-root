@@ -1,3 +1,6 @@
 [submodule "subtree-a"]
 	path = subtree-a
 	url = git@github.com:alsrb968/subtree-a.git
+[submodule "subtree-b"]
+	path = subtree-b
+	url = git@github.com:alsrb968/subtree-b.git
