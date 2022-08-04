@@ -1,0 +1,3 @@
+[submodule "subtree-a"]
+	path = subtree-a
+	url = git@github.com:alsrb968/subtree-a.git
